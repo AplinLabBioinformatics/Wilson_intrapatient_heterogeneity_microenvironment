@@ -1,3 +1,8 @@
 Haley_scRNAseq_anndata_MEL.h5ad
 Haley_scRNAseq_anndata_hvg_MEL.h5ad
+Haley_scRNAseq_anndata_final.h5ad
+Haley_scRNAseq_anndata_hvg_final.h5ad
+adata_basic.loom
+pySCENIC_protocol-noCAF.ipynb
+pySCENIC_protocol-noCAF-Copy1.ipynb
 .ipynb_checkpoints/
